@@ -13,5 +13,12 @@
 edition = "2018"
 name = "payPeers"
 version = "0.1.0"
+publish = true
+description = "simple crate testing"
+readme = "README.md"
+keywords = ["payment, crate"]
+license = "MIT"
+license-file = "LICENSE"
+repository = "https://github.com/ali2210/effective-pancake"
 
 [dependencies]
